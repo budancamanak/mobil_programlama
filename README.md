@@ -6,3 +6,8 @@ Register/Login
 Add Question with options
 List Questions
 Delete question
+
+
+# About
+Yakup Budancamanak
+l1008080@std.yildiz.edu.tr
